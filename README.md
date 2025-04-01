@@ -1,8 +1,3 @@
-[**Join the Forums!**](https://blizzhackers.discourse.group)
-
-[**Join the Discord Channel!**](https://discord.gg/z844XRhxFC)
-
-[**Join the Slack Channel!**](https://join.slack.com/t/blizzhackers/shared_invite/zt-qahq0w11-uzETJNgKmS9DdApJSRQqaw)
 
 ## General
 
@@ -19,9 +14,6 @@
 	* D2Bot# - manager (C#)
 	* kolbot - script library (JS)
 
-If you want to contribute to kolbot code, make sure you run `npm run lint` for final polish.
-
-If you want to contribute to d2bs/d2bot#, come to irc.synirc.net/d2bs and ask around.
 
 [**Live Docs**](https://bhdocs.github.io/)
 
